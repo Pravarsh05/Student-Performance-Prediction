@@ -105,7 +105,7 @@ Add screenshots of:
 
 ## 🤝 Contributing
 
-Contributions are -
+Contributors are -
 
 1. Pravarsh Prateek
 2. Parth Abhay Deshpande
